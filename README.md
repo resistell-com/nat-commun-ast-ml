@@ -2,7 +2,7 @@
 
 Supplementary data and code to the manuscript.
 
-###Installation guide for Windows
+### Installation guide for Windows
 
 It is assumed that there is python interpreter installed in the system.
 
