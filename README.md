@@ -1,2 +1,3 @@
 # nat-commun-ast-ml
-Supplementary material to the manuscript.
+Supplementary data and code to the manuscript.
+
